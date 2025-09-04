@@ -2,5 +2,5 @@
 
 ![Tieresaurus](/images/tieresaurus_pixel.png)
 
-This is my personal blog in PT-BR language. Based in [Reverie Template] (https://reverie.pages.dev/) for **Jekyll**.
+This is my personal blog in PT-BR language. Based in [Reverie Template](https://reverie.pages.dev/) for **Jekyll**.
 
