@@ -9,14 +9,14 @@ layout: default
         <h1>{{ post.title }}</h1>
 
         <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+          <p class="post_date">{{ post.date | date: "%d / %m / %Y" }}</p>
         </div>
       </a>
       <div class="entry">
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leia mais...</a>
     </article>
   {% endfor %}
 
@@ -24,9 +24,9 @@ layout: default
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Anterior</a>
     {% else %}
-      <span>&laquo; Prev</span>
+      <span>&laquo; Anterior</span>
     {% endif %}
 
     {% for page in (1..paginator.total_pages) %}
@@ -40,9 +40,9 @@ layout: default
     {% endfor %}
 
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Próxima &raquo;</a>
     {% else %}
-      <span>Next &raquo;</span>
+      <span>Próxima &raquo;</span>
     {% endif %}
   </div>
   {% endif %}
