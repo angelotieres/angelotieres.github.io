@@ -103,4 +103,6 @@ Com o OneChipBook ligado e a USB Blaster conectada nele e em seu computador, sel
 
 Caso apareça a mensagem *failed* no canto direito, tente outro arquivo .pof ou reinicie o processo do zero. Se tudo deu certo, aparecerá *Success* em verde no canto direito, e *voilà*... divirta-se (ou se irrite) com seu MSX!
 
+Se quiser futucar o hardware, segue a [referência técnica para download](/downloads/1742232699212994.pdf).
+
 <img src="/images/post01/tieresaurus12.png" width="70%" height="70%">
