@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello, there!
-permalink: /about/
+permalink: /sobre/
 ---
  
  *"Os senhores chegaram até aqui pelas suas próprias pernas. Ninguém, absolutamente ninguém os convidou e nenhum dos senhores é bem vindo aqui!"*
