@@ -3,17 +3,19 @@ layout: page
 title: Hello, there!
 permalink: /about/
 ---
+ 
+ *"Os senhores chegaram até aqui pelas suas próprias pernas. Ninguém, absolutamente ninguém os convidou e nenhum dos senhores é bem vindo aqui!"*
 
-Este é meu blog pessoal. Embora possa ocasionalmente falar sobre as tecnologias que uso profissionalmente, o foco aqui será documentar meus hobbies, trabalhos acadêmicos e tecnologias em estudo. Sendo assim, será mais provável você encontrar posts sobre:
+Me chamo Tiéres, sou engenheiro de software e desenvolvedor sênior, especializado em Java. Atuo principalmente na integração de sistemas, aplicações nativas em nuvem e desenvolvimento seguro de software para instituições financeiras e no desenvolvimento de aplicações para segurança cibernética.
 
-- Retrocomputação, chiptune e jogos antigos;
+Este é meu blog pessoal. Embora possa ocasionalmente falar sobre as tecnologias que uso profissionalmente, o foco aqui será documentar meus hobbies e tecnologias em estudo. Sendo assim, será mais provável você encontrar posts sobre:
+
+- Retrocomputação e jogos antigos;
 - Sistemas operacionais obsoletos ou desconhecidos;
 - Homelab, hardware hacking e IoT;
 - Privacidade de dados e anonimato online;
-- Computação paralela e quântica.
+- Computação paralela e por aí vai...
 
-Gosto de explicações "passo-a-passo" detalhadas, pois LLMs não sabem tudo (ainda) e humanos tendem a detalhar somente o "caminho feliz" quando explicam algo.
-
-Meus links estão ao final do blog se quiser entrar em contato!
+Pretendo utilizar este espaço para explicações "passo-a-passo" detalhadas e em linguagem informal (tanto LLMs quanto humanos tendem a detalhar somente o "caminho feliz" quando explicam algo) e para registrar opiniões pessoais a respeito de assuntos tecnológicos (e no fim das contas sei que vou acabar por divagar como sempre, mas tudo certo).
 
 <img src="/images/tieresaurus03.png" width="60%" height="60%">
