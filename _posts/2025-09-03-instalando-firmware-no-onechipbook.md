@@ -8,7 +8,7 @@ Após dois longos meses de espera, finalmente chegou meu OneChipBook... ok, mas 
 
 <img src="/images/post01/MSXBOOK.webp" width="60%" height="60%">
 
-Anteriormente chamado de MSXBook ~~cujo nome foi alterado por medo de receberem um processo do Nishi~~, o OneChipBook é um notebook que emula um MSX2+ em hardware através de um FPGA. Ponto. Simples assim. Mas vamos às specs...
+Anteriormente chamado de MSXBook ~~cujo nome foi alterado por medo de receberem um processo do Nishi~~, o OneChipBook é um notebook que "emula" um MSX2+ em hardware através de um FPGA. Ponto. Simples assim. Mas vamos às specs...
 
 - Tela de 9,7" com resolução 1024 x 768;
 - FPGA Altera Cyclone EP1C12Q240;
@@ -25,7 +25,7 @@ Anteriormente chamado de MSXBook ~~cujo nome foi alterado por medo de receberem 
 - 1 porta USB 2.0;
 - 1 entrada de cartão SD.
 
-Para saber mais a respeito do que tenho paciência para informar, recomendo [esta postagem do Retrópolis](https://retropolis.com.br/2025/02/17/msxbook/).
+Para saber mais a respeito ~~do que tenho paciência para informar~~, recomendo [esta postagem do Retrópolis](https://retropolis.com.br/2025/02/17/msxbook/).
 
 Devido às patentes do MSX, o OneChipBook vêm sem firmware instalado, de forma que ao inicializá-lo você só verá um teste de display. No entanto, como ele foi totalmente baseado no OneChipMSX, é compatível com os firmwares do KdL, então é hora de instalar um.
 
