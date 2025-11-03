@@ -1,6 +1,6 @@
 ---
 title: Angelotieres.Github.Io
-timezone: UTC
+timezone: America/Argentina/Buenos_Aires
 collections:
   posts:
     title: Posts
@@ -17,9 +17,9 @@ footer-links:
   email: 
   facebook: 
   flickr: 
-  github: github.com/angelotieres
+  github: angelotieres
   instagram: 
-  linkedin: linkedin.com/in/angelotieres/
+  linkedin: angelotieres
   pinterest: 
   rss: rss
   twitter: 
@@ -32,7 +32,7 @@ disqus:
 google_analytics: 
 url: http://www.tieresaurus.com
 enforce_ssl: https://www.tieresaurus.com
-baseurl: ''
+baseurl: 
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
@@ -41,7 +41,7 @@ kramdown:
   syntax_highlighter_opts:
     css_class: highlight
 sass:
-  style: :expanded
+  style: expanded
 plugins:
 - jekyll-sitemap
 - jekyll-feed
