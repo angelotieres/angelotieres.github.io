@@ -14,6 +14,6 @@ Este é meu blog pessoal. Embora possa ocasionalmente falar sobre as tecnologias
 - Sistemas operacionais obsoletos ou desconhecidos;
 - Homelab, hardware hacking e IoT;
 - Privacidade de dados e anonimato online;
-- Computação paralela e por aí vai...
+- Computação quântica e por aí vai...
 
 <img src="/images/tieresaurus03.png" width="60%" height="60%">
