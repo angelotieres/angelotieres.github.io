@@ -1,9 +1,8 @@
 ---
-layout: page
-permalink: /categorias/
 title: Categorias
+permalink: "/categorias/"
+layout: page
 ---
-
 
 <div id="archives">
 {% for category in site.categorias %}

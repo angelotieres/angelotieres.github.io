@@ -1,9 +1,7 @@
 ---
+permalink: "/arquivo/"
 layout: page
-permalink: /arquivo/
-title: 
 ---
-
 
 <div id="archives">
   <section id="archive">

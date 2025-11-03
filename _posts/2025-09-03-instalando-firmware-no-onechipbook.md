@@ -1,7 +1,10 @@
 ---
-layout: post
 title: Como instalar o firmware do OneChipBook
-categorias: [MSX, Retrocomputação]
+date: 2025-09-03 00:00:00 Z
+layout: post
+categorias:
+- MSX
+- Retrocomputação
 ---
 
 Após dois longos meses de espera, finalmente chegou meu OneChipBook... ok, mas que raios é um OneChipBook?

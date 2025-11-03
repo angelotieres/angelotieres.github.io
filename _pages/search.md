@@ -1,7 +1,6 @@
 ---
+permalink: "/buscar/"
 layout: page
-title: 
-permalink: /buscar/
 ---
 
 <div id="search-container">

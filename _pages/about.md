@@ -1,9 +1,9 @@
 ---
-layout: page
 title: Hello, there!
-permalink: /sobre/
+permalink: "/sobre/"
+layout: page
 ---
- 
+
  *"Os senhores chegaram até aqui pelas suas próprias pernas. Ninguém, absolutamente ninguém os convidou e nenhum dos senhores é bem vindo aqui!"*
 
 Me chamo Tiéres, sou engenheiro de software e desenvolvedor sênior, especializado em Java. Atuo principalmente na integração de sistemas, aplicações nativas em nuvem e desenvolvimento seguro de software para instituições financeiras e no desenvolvimento de aplicações para segurança cibernética.
